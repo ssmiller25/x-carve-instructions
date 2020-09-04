@@ -130,7 +130,7 @@ Slide the right side y-axis plate into place near the wide MakerSlide. Try align
 
 This next part is tricky. Again, we recommend taping the ends of your wiring to make it easier to thread the wires through the holes on the plate (the photos do not reflect this). 
 
-<strong>Note:</strong> If you are upgrading electronics, and want to wire the Y motor seperately, make sure to pull the seperate STepper Moter Cable through, NOT the original cable.	qax xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+<strong>Note:</strong> If you are upgrading electronics, and want to wire the Y motor seperately, make sure to pull the seperate STepper Moter Cable through, NOT the original cable.	You may remove the smaller "jumper" cable from the left-hand termianl block at this time.
 
 Position the right y-axis plate so the holes line up with the holes on the plate. You can try to push the wires through the oblong hole, but you will likely need a pair of tweezers to pull the wires through the plate. If you have taped the ends of your wires, it should be easier to grab the wires and pull them through. Be gentle so you don’t damage the insulation on the outside of the wires. 
 
