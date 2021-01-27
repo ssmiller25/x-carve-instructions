@@ -68,7 +68,7 @@ When you are finished, your machine should have the x-carriage and belting remov
 
 <img src="../photo/P9210375.jpg">
 
-Make sure you remove the two pre-assembly t-slot nuts from the gantry. You’ll need to reinstall them on the new rail.
+Make sure you remove the two pre-assembly t-slot nuts from the gantry. If you have a t-slot nut holding a screw for the limit switch on the back of the rail, remove that too.  You’ll need to reinstall them on the new rail.
 
 <img src="../photo/P9210376.jpg">
 
@@ -117,7 +117,7 @@ Slide the x-carriage onto the rail and move it far enough onto the rail so you c
 
 <img src="../photo/P9210389.jpg">
 
-Before we forget, let’s add in the pre-assembly t-slot nuts to the top of the wide MakerSlide. Remember to insert them with the protruding part pointing down, so the flat part of the nut is on the top of the rail. 
+Before we forget, let’s add in the pre-assembly t-slot nuts to the top of the wide MakerSlide. In on your old machine, also make sure to include teh t-slot nut on the back to for the screw that will trigger the limit switch.  Remember to insert them with the protruding part pointing down, so the flat part of the nut is on the top of the rail. 
 
 <img src="../photo/P9210400.jpg">
 
@@ -129,6 +129,8 @@ Slide the right side y-axis plate into place near the wide MakerSlide. Try align
 <img src="../photo/P9210393.jpg">
 
 This next part is tricky. Again, we recommend taping the ends of your wiring to make it easier to thread the wires through the holes on the plate (the photos do not reflect this). 
+
+<strong>Note:</strong> If you are upgrading electronics, and want to wire the Y motor seperately, make sure to pull the seperate STepper Moter Cable through, NOT the original cable.	You may remove the smaller "jumper" cable from the left-hand termianl block at this time.
 
 Position the right y-axis plate so the holes line up with the holes on the plate. You can try to push the wires through the oblong hole, but you will likely need a pair of tweezers to pull the wires through the plate. If you have taped the ends of your wires, it should be easier to grab the wires and pull them through. Be gentle so you don’t damage the insulation on the outside of the wires. 
 
